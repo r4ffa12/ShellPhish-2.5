@@ -48,6 +48,18 @@ bash update.sh
 ```
 
 
+## Como utilizar 
+
+- acesse o terminal kali
+- inicialize com root
+- abra o shellphish
+- escolha as opções de captura (exemplo: instagram)
+- escolha as forma de captura a qual desejar (exemplo: tradicional)
+- escolha a port desejavel (exemplo: serveo.net)
+
+
+
+
 
 
 
