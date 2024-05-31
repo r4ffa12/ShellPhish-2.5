@@ -41,6 +41,12 @@ apt update && apt upgrade -y && apt install git wget php unzip curl -y && git cl
 
 
 
+## Atualizar:
+```bash
+cd ShellPhish
+bash update.sh
+```
+
 
 
 
