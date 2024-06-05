@@ -8,6 +8,8 @@ Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam, Twitter, PlaySta
 
 Requisitos 
 
+Maquina Virtual 
+
 Kali linux 
 
 ShellPhish
@@ -56,6 +58,7 @@ bash update.sh
 - escolha as opções de captura (exemplo: instagram)
 - escolha as forma de captura a qual desejar (exemplo: tradicional)
 - escolha a port desejavel (exemplo: serveo.net)
+- em um segundo terminal iniciei o serveo.net com a entrada necessaria 
 
 
 
