@@ -62,6 +62,11 @@ bash update.sh
 - em um segundo terminal iniciei o serveo.net com o "ssh -R subdominio.serveo.net:80: localhost: 80 serveo.net"
 
 
+## Créditos:
+#### TheLinuxChoice: https://github.com/thelinuxchoice
+#### DarksecDevelopers: https://github.com/DarksecDevelopers
+#### UndeadSec: https://github.com/UndeadSec
+#### HTR-TECH: https://github.com/htr-tech
 
 
 
