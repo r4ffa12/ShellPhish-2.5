@@ -57,7 +57,7 @@ bash update.sh
 - abra o shellphish
 - escolha as opções de captura (exemplo: instagram)
 - escolha as forma de captura a qual desejar (exemplo: tradicional)
-- escolha a saida (exemplo 80) para posteriomente usar no serveo.net
+- escolha a saida localhost (exemplo 80) para posteriomente usar no serveo.net
 - escolha a port desejavel (exemplo: serveo.net)
 - em um segundo terminal iniciei o serveo.net com o "ssh -R subdominio.serveo.net:80: localhost: 80 serveo.net"
 
