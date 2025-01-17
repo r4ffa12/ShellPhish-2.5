@@ -12,7 +12,7 @@ Maquina Virtual
 
 Kali linux 
 
-ShellPhish
+ShellPhish (ls) (bash shellphish.sh)
 
 Serveo.Net
 
